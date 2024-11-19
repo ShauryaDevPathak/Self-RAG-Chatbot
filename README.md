@@ -8,4 +8,4 @@ Key features include:
 - **Advanced Retrieval Mechanism:** Uses vector-based storage and semantic retrieval for precise information retrieval.  
 - **Document Parsing and Chunking:** Processes large documents into manageable chunks for efficient response generation.  
 
-This chatbot represents a robust, privacy-focused solution for secure and intelligent conversational AI.  
+This chatbot represents a privacy-focused solution for secure and intelligent conversational AI.  
